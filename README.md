@@ -9,8 +9,7 @@
 ![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/real_median.png?raw=true)
 
 ### 1.2. Фильтр Гаусса
-Реализация фильтра Гаусса для размытия изображения.
-- Размеры ядра: 3x3, 5x5, 7x7
+- Размеры ядра: 3x3, 7x7
 - Параметр sigma: 0.8, 2.5
   
   <img width="653" height="369" alt="image" src="https://github.com/user-attachments/assets/378b2c76-22ac-459f-96ae-b614dc38c617" />
