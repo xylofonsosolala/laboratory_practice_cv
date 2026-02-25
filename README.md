@@ -20,6 +20,11 @@
 ## 2. Морфологические операции
 ### 2.1. Эрозия (уменьшение объектов)
 
+Эрозия "сужает" границы объектов. Пиксель становится белым (1) только если оба пикселя под структурным элементом белые
+
+<img width="297" height="371" alt="укщышщ" src="https://github.com/user-attachments/assets/2222c8bb-897c-4bfe-890c-e06b6394d721" />
+
+
 ### 2.2. Дилатация (увеличение)
 
 ![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/erosiondelation.png?raw=true)
