@@ -5,14 +5,8 @@
 - Размеры ядра: 3x3, 5x5
 <img width="447" height="243" alt="image" src="https://github.com/user-attachments/assets/62133ce3-6fd3-4149-87db-aa06e203fb2b" />
 
-Блаб
-
-![Uploading real_median.png…]()
-
-бла бала 
-
-![Uploading image.png…]()
-
+,kf, kf
+![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/real_median.png?raw=true)
 
 ### 1.2. Фильтр Гаусса
 Реализация фильтра Гаусса для размытия изображения.
