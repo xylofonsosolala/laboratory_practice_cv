@@ -33,7 +33,8 @@
 
 Дилатация "расширяет" границы объектов. Пиксель становится белым (1) если хотя бы один пиксель под структурным элементом белый.
 
-<img width="262" height="365" alt="птгащпващптващ" src="https://github.com/user-attachments/assets/b3ff3f0f-0de9-4f03-9b8b-83c3c141a6e4" />
+<img width="262" height="365" alt="птгащпващптващ" src="https://github.com/user-attachments/assets/36183e40-aaba-42eb-9ec6-ca3ea0f713c8" />
+
 
 ## 3. Пороговая бинаризация
 
