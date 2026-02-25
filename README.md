@@ -39,6 +39,8 @@
 ![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/binarisation.png?raw=true)
 
 ## 4. Выравнивание гистограммы
+
+Выравнивание гистограммы - это метод улучшения контрастности изображения путем перераспределения интенсивности пикселей так, чтобы гистограмма стала более равномерной.
 ![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/hystogram.png?raw=true)
 
 ## 5. Поворот изображения на угол, кратный 90 градусов
