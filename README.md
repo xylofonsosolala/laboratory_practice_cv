@@ -15,17 +15,25 @@
   
   <img width="653" height="369" alt="image" src="https://github.com/user-attachments/assets/378b2c76-22ac-459f-96ae-b614dc38c617" />
 
+  ,kf ,kf
+  ![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/median.png?raw=true)
+
 ## 2. Морфологические операции
 ### 2.1. Эрозия (уменьшение объектов)
+
 ### 2.2. Дилатация (увеличение)
 
+![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/erosiondelation.png?raw=true)
 
 ## 3. Пороговая бинаризация
 
 - Пороги: 80, 127
+![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/binarisation.png?raw=true)
 
 ## 4. Выравнивание гистограммы
+![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/hystogram.png?raw=true)
 
 ## 5. Поворот изображения на угол, кратный 90 градусов
 Поворот на углы, кратные 90 градусам.
 - Углы: 0°, 90°, 180°, 270°
+![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/rotation.png?raw=true)
