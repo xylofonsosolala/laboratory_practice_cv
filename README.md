@@ -5,7 +5,7 @@
 - Размеры ядра: 3x3, 5x5
 <img width="447" height="243" alt="image" src="https://github.com/user-attachments/assets/62133ce3-6fd3-4149-87db-aa06e203fb2b" />
 
-,kf, kf
+Медианный фильтр проходит ядром по всему изображению, собираются значения всех пикселей внутри окна, сортируются в порядке возрастания, медианное значение ставится в центр, хорошо отрабатывает для шума соль и перец
 ![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/real_median.png?raw=true)
 
 ### 1.2. Фильтр Гаусса
