@@ -51,16 +51,29 @@
 - Углы: 0°, 90°, 180°, 270°
 ![](https://github.com/xylofonsosolala/laboratory_practice_cv/blob/main/rotation.png?raw=true)
 
-# 2. Лабораторная работа 2
+# 2. Лабораторная работа 2 (Визуальная одометрия, навигация)
 ## 2.1. Определить на каждой фотографии ключевые точки
 
 ## 2.2. Отфильтровать самые наилучшие применяя адаптивный радиус и локальные максимумы, так же выровнять по яркости изображения
+<img width="703" height="355" alt="image" src="https://github.com/user-attachments/assets/c30141c6-f222-4d8a-9619-ae7c5d45555f" />
+Адаптивный радиус
+<img width="566" height="319" alt="image" src="https://github.com/user-attachments/assets/0e912634-a20c-4a59-b78c-753fbde7fae7" />
+
 
 ## 2.3. Построить по каждой точке дескриптор 
+Масштабно-инвариантное преобразование объектов (SIFT) — это алгоритмы для обнаружения и описания локальных объектов на изображениях. Их называют масштабно-инвариантными и надежными, потому что, по сравнению, например, с обнаружением углов Харриса, их результат является ожидаемым даже после некоторых изменений изображения.
+<img width="645" height="171" alt="image" src="https://github.com/user-attachments/assets/795b655c-9f05-4083-8f5a-1bba719a569f" />
 
 ## 2.4. Сопоставить два соседних изображения на предмет соответствия ключевых точек
 
+<img width="675" height="525" alt="image" src="https://github.com/user-attachments/assets/8f677eb4-d91b-42b7-af01-50273fe219b3" />
+
 ## 2.5. Построить модель преобразования изображений
 
+<img width="515" height="444" alt="image" src="https://github.com/user-attachments/assets/b472fd17-79b4-46c0-9488-0f0a054d4b20" />
+
 #№ 2.6. С учетом полученных моделей постройте траекторию движения камеры.
+
+<img width="559" height="448" alt="image" src="https://github.com/user-attachments/assets/d32515ed-9040-43d0-9405-9aa0bf84f5b8" />
+
 
