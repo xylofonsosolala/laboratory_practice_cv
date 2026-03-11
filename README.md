@@ -116,6 +116,15 @@ M - матрица структуры для каждого пикселя.
 
 <img width="515" height="444" alt="image" src="https://github.com/user-attachments/assets/b472fd17-79b4-46c0-9488-0f0a054d4b20" />
 
+Используем SVD разложение (Singular Value Decomposition). U - матрица левых сингулярных векторов (поворот исходный), D - диагональная матрица с сингулярными числами (растяжение/сжатие), V - матрица правых сингулярных векторов (поворот в целевом). 
+
+<img width="622" height="264" alt="image" src="https://github.com/user-attachments/assets/09243ff4-6678-4427-a2e2-a39712297306" />
+
+Из SVD можно получить матрицу поворота
+
+<img width="102" height="36" alt="image" src="https://github.com/user-attachments/assets/9cea8424-1e7b-45cb-9a9a-2a4f350374e1" />
+
+
 ## 2.6. С учетом полученных моделей постройте траекторию движения камеры.
 Начальную позицию считаем (0,0) с углом 0. 
 
