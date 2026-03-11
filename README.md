@@ -111,6 +111,11 @@ M - матрица структуры для каждого пикселя.
 <img width="515" height="444" alt="image" src="https://github.com/user-attachments/assets/b472fd17-79b4-46c0-9488-0f0a054d4b20" />
 
 ## 2.6. С учетом полученных моделей постройте траекторию движения камеры.
+Начальную позицию считаем (0,0) с углом 0. 
+
+<img width="318" height="67" alt="image" src="https://github.com/user-attachments/assets/fad14da7-6985-4c47-ac8e-0d8429cf9656" />
+
+
 
 <img width="559" height="448" alt="image" src="https://github.com/user-attachments/assets/d32515ed-9040-43d0-9405-9aa0bf84f5b8" />
 
