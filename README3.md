@@ -21,3 +21,10 @@
 
 <img width="635" height="454" alt="image" src="https://github.com/user-attachments/assets/bde5dc52-328d-4727-ab30-8acc0a883712" />
 
+## 3.3. Реализовать определение движущегося предмета
+
+## 3.4. Построить траекторию движения объекта
+
+<img width="549" height="410" alt="image" src="https://github.com/user-attachments/assets/a99c719a-f256-44c9-8884-2ead250ea45d" />
+
+
