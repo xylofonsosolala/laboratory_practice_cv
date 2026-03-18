@@ -20,6 +20,8 @@
 альфа - вес текущего кадра,  бета - вес фона (с отрицательным знаком)
 <img width="255" height="69" alt="image" src="https://github.com/user-attachments/assets/34dde068-5fbf-4ccd-8e2d-71deb07aa053" />
 
+<img width="510" height="282" alt="image" src="https://github.com/user-attachments/assets/0e5fbd73-4cce-4597-b05b-3ac36304fc57" />
+
 
 ## 3.3. Реализовать определение движущегося предмета
 
