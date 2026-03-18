@@ -1,7 +1,9 @@
 # 3. Лабораторная работа 3. Работа с видеопотоком
 ## 3.1. Реализовать получение данных с Web-камеры
 Видеопоток или видеофайл состоит из последовательного набора изображений. Поэтому используем методы, применяемые для обработки одного изображения.
-<img width="791" height="453" alt="image" src="https://github.com/user-attachments/assets/683ea620-a03e-4109-9061-9aa6cdb9cf35" />
+
+<img width="148" height="110" alt="dfgodfio" src="https://github.com/user-attachments/assets/6095ab0c-bf3d-4b5f-8daf-7d0e3b8d36fb" />
+
 
 Преобразуем наш видеофайл в последовательность изображений. Обычно такой возможности нет, поскольку видео с камеры приходит последовательно. Однако в данном примере в Colabe  пробежимся по всему файлу и запишем наши изображения в массив.
 
@@ -11,16 +13,18 @@
 ## 3.2. Реализовать алгоритм вычитания фона
 Для начала реализуем самый простой метод. А именно метод усреднения фона. Данный метод в реальных условиях не возможен (ну или мало возможен), поскольку для него необходимо усреднить пиксели всех кадров, но в нашем примере такая информация нам сразу доступна. Данная функция складывает значения пикселей, которые занимают одно и тоже пространственное расположение. А после прохода по всему массиву берется среднее от количества изображений.
 
-<img width="642" height="453" alt="image" src="https://github.com/user-attachments/assets/a4a8c5cb-dffb-42ac-94e5-eddaebd15fa2" />
+<img width="146" height="115" alt="ngnsgns" src="https://github.com/user-attachments/assets/7d2a4f38-0926-45aa-b8d5-ec5274a0727e" />
+
 
 Добавляем вычитание текущего кадра от фона
 
 <img width="635" height="454" alt="image" src="https://github.com/user-attachments/assets/bde5dc52-328d-4727-ab30-8acc0a883712" />
 
 альфа - вес текущего кадра,  бета - вес фона (с отрицательным знаком)
+
 <img width="255" height="69" alt="image" src="https://github.com/user-attachments/assets/34dde068-5fbf-4ccd-8e2d-71deb07aa053" />
 
-<img width="510" height="282" alt="image" src="https://github.com/user-attachments/assets/0e5fbd73-4cce-4597-b05b-3ac36304fc57" />
+<img width="473" height="250" alt="image" src="https://github.com/user-attachments/assets/ccbd64e5-0d6f-48df-a37f-d007dea53a9d" />
 
 
 ## 3.3. Реализовать определение движущегося предмета
