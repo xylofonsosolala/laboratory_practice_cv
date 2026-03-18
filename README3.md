@@ -16,11 +16,9 @@
 
 Добавляем вычитание текущего кадра от фона
 
-<img width="635" height="454" alt="image" src="https://github.com/user-attachments/assets/bde5dc52-328d-4727-ab30-8acc0a883712" />
+<img width="255" height="69" alt="image" src="https://github.com/user-attachments/assets/34dde068-5fbf-4ccd-8e2d-71deb07aa053" />
 
 альфа - вес текущего кадра,  бета - вес фона (с отрицательным знаком)
-
-<img width="255" height="69" alt="image" src="https://github.com/user-attachments/assets/34dde068-5fbf-4ccd-8e2d-71deb07aa053" />
 
 <img width="473" height="250" alt="image" src="https://github.com/user-attachments/assets/ccbd64e5-0d6f-48df-a37f-d007dea53a9d" />
 
