@@ -48,7 +48,12 @@ m01 - взвешенная сумма координат y.
 
 ## 3.4. Построить траекторию движения объекта
 
+<img width="634" height="454" alt="image" src="https://github.com/user-attachments/assets/75972bf0-b906-4a9e-a50d-af91cb67dfac" />
+
+
 Чем больше кадров, тем больше точек в траектории. То есть если видео записано с частотой 30 FPS, то за 10 секунд у нас будет уже 300 точек.
+
+
 <img width="549" height="410" alt="image" src="https://github.com/user-attachments/assets/a99c719a-f256-44c9-8884-2ead250ea45d" />
 
 
