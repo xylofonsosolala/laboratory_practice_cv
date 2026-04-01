@@ -1,5 +1,14 @@
 # Лабораторная работа 4. Сверточная нейронная сеть
 
+Начнем издалека. CNN (Convolutional Neural Network) - сверточная нейронная сеть. Обычно состоит из сверточных (convolution) слоев и pooling (подвыборка) слоев. 
+
+<img width="866" height="243" alt="image" src="https://github.com/user-attachments/assets/86a47ca8-8cb7-4d98-a4cf-05c096a74ef2" />
+
+Сверточный слой используем фильтры которые производят свертку входного изображения в зависимости от его размера. Его гиперпараметры F и S - размер фильтра и шаг свертки. Результатом операции является карта активации.
+
+<img width="433" height="201" alt="image" src="https://github.com/user-attachments/assets/f47236ce-0e47-471c-a0e0-41d703d80c44" />
+
+
 1. Загружаем Дата-сет Fashion-MNIST. Выбрала его так как работа будет в коллабе, а размеры этих изображений маленькие (28*28).
 
 <img width="1035" height="191" alt="image" src="https://github.com/user-attachments/assets/4a058979-77f1-4938-a38c-17f0bb020900" />
