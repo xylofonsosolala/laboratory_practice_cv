@@ -14,6 +14,17 @@
 
 <img width="585" height="193" alt="image" src="https://github.com/user-attachments/assets/849c1e3b-38d5-4198-8d3d-3272dee5e661" />
 
+## Полносвязный слой
+
+## Гиперпараметры фильтра (ядра свертки)
+
+Фильтр размера F*F (28*28), применяемый к входу с C каналов (3) представляет собой объем F*F*C. Он применяет свертку с входным размером I*I*C и создает одну карту признаков размером 0*0*1. 
+
+<img width="282" height="198" alt="image" src="https://github.com/user-attachments/assets/1d626761-2469-40bd-b900-aaaebd6f28ea" />
+
+
+<img width="525" height="200" alt="image" src="https://github.com/user-attachments/assets/69b4e883-7be4-43ea-a730-89ef5f7b9b41" />
+
 1. Загружаем Дата-сет Fashion-MNIST. Выбрала его так как работа будет в коллабе, а размеры этих изображений маленькие (28*28).
 
 <img width="1035" height="191" alt="image" src="https://github.com/user-attachments/assets/4a058979-77f1-4938-a38c-17f0bb020900" />
