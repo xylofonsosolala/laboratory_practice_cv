@@ -56,6 +56,12 @@ O = (28 -  +  + )/ + 1
 
 Далее сравниваем с эталоном, корректируем веса
 
-Эпох обучения сделано 50 с преждевременной остановкой если loss меньше e-6. 
+Эпох обучения сделано 12
+
+<img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/03a7493b-3a26-48cf-a1b5-782f1fd998fa" />
+
 
 Оцениваем качество на тестовой выборке
+
+<img width="1099" height="339" alt="image" src="https://github.com/user-attachments/assets/63ac75d8-604b-48f6-a51f-fa18eedbdc0a" />
+
