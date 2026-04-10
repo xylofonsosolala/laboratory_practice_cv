@@ -68,4 +68,9 @@ Learning rate: 0.0005
 
 <img width="1081" height="424" alt="image" src="https://github.com/user-attachments/assets/34832082-2636-4279-9dcf-ed8d44a90850" />
 
+Ну и результат на графиках
+
+<img width="368" height="293" alt="image" src="https://github.com/user-attachments/assets/5a592487-81d3-4d39-8543-f1282f3a3297" />
+<img width="550" height="339" alt="image" src="https://github.com/user-attachments/assets/26c7ec2a-6e13-4292-8e96-cbbc3b83ac20" />
+
 
