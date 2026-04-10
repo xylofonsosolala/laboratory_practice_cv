@@ -23,3 +23,5 @@
 <img width="100" height="283" alt="5" src="https://github.com/user-attachments/assets/ff95fd94-f0a8-4852-92be-4b1af25e56fe" />
 
 Это реки
+
+Хорошо видно что у озер есть слоистость, а у рек - зернистность.
