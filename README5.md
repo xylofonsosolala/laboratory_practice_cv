@@ -111,3 +111,32 @@ Adam (Adaptive Moment Estimation) - это алгоритм оптимизаци
 Подробнее тут
 https://www.geeksforgeeks.org/deep-learning/adam-optimizer/
 
+активации
+
+ ## Метрики оценки
+Основная метрика: F1-score (weighted)
+
+Accuracy может вводить в заблуждение при дисбалансе классов, поэтому выбран F1-score
+
+## Параметры обучения
+
+50 эпох с ранней остановкой
+
+Финальные метрики:
+  • Precision: 0.8646
+  • Recall: 0.8571
+  • F1-score: 0.8564
+  • Accuracy: 0.8571 (85.71%)
+
+  ## Матрица ошибок
+
+  <img width="1195" height="518" alt="image" src="https://github.com/user-attachments/assets/65219e86-1868-4fbd-9e01-89325d9a2739" />
+
+  Итоговые графики обучения
+
+  | Loss | F1 |
+|:---:|:---:|
+| <img width="605" height="376" alt="image" src="https://github.com/user-attachments/assets/ffe8ebbf-b667-48a6-b6f6-e13370ce86e2" />
+ | <img width="621" height="383" alt="image" src="https://github.com/user-attachments/assets/4f779436-b5b0-455f-9bd5-c0f27c84c7ca" />
+|
+
