@@ -84,3 +84,30 @@ train_datagen = ImageDataGenerator(
     fill_mode='nearest'
 )
 ```
+
+Выбор модели: MobileNetV2 (предобучена на ImageNet)
+
+```python
+model = Sequential([
+    base_model,
+    GlobalAveragePooling2D(),
+    Dense(256, activation='relu', kernel_regularizer=l2(0.01)),
+    BatchNormalization(),
+    Dropout(0.5),
+    Dense(128, activation='relu', kernel_regularizer=l2(0.01)),
+    BatchNormalization(),
+    Dropout(0.4),
+    Dense(64, activation='relu'),
+    Dropout(0.3),
+    Dense(2, activation='softmax')
+])
+```
+
+Выбрала усреднение признаков так как если слоистости нет, а есть просто шум, то шум усилится при max pooling. 
+
+Optimizer: Adam
+Adam (Adaptive Moment Estimation) - это алгоритм оптимизации, который обновляет веса нейронной сети во время обучения
+
+Подробнее тут
+https://www.geeksforgeeks.org/deep-learning/adam-optimizer/
+
