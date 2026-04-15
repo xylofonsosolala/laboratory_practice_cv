@@ -24,7 +24,7 @@
 
 ### Финальные классы: Озёра vs Реки
 
-| 🏞️ **Озёра (Lakes)** | 🌊 **Реки (Rivers)** |
+| **Озёра (Lakes)** | **Реки (Rivers)** |
 |:---:|:---:|
 | <img width="150" src="https://github.com/user-attachments/assets/1807a863-3e49-4fc5-a0be-d445296c4ff6" /> | <img width="150" src="https://github.com/user-attachments/assets/4f02dc70-59b3-4d69-9f40-69bd59b8c18d" /> |
 | <img width="150" src="https://github.com/user-attachments/assets/44e4b380-f416-47dd-9db7-9ee3031452e2" /> | <img width="150" src="https://github.com/user-attachments/assets/0f0b8223-e582-42cf-9881-e4accfbaa9d7" /> |
