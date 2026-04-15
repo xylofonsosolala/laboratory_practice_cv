@@ -138,3 +138,8 @@ Accuracy может вводить в заблуждение при дисбал
 |:---:|:---:|
 | <img width="605" height="376" alt="image" src="https://github.com/user-attachments/assets/ffe8ebbf-b667-48a6-b6f6-e13370ce86e2" /> | <img width="621" height="383" alt="image" src="https://github.com/user-attachments/assets/4f779436-b5b0-455f-9bd5-c0f27c84c7ca" />|
 
+## Примеры вывода
+
+<img width="1111" height="482" alt="image" src="https://github.com/user-attachments/assets/96ccf368-40ef-40b0-957a-66f6a6ad9707" />
+
+
